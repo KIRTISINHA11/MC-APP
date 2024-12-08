@@ -1,6 +1,6 @@
-# GenZ-IGDTUW 🧘‍♀️📚
+# Zen-IGDTUW 🧘‍♀️📚
 
-**GenZ-IGDTUW** is an innovative mobile application designed to help students manage their mental health, boost productivity, and provide essential resources for personal development. Built with React Native and Expo, this app aims to enhance the well-being of students at IGDTUW by providing tools like meditation sessions and a student corner for academic and emotional support.
+**Zen-IGDTUW** is an innovative mobile application designed to help students manage their mental health, boost productivity, and provide essential resources for personal development. Built with React Native and Expo, this app aims to enhance the well-being of students at IGDTUW by providing tools like meditation sessions and a student corner for academic and emotional support.
 
 ## 🚀 Features
 
