@@ -66,13 +66,13 @@ In today's competitive educational environment at IGDTUW, students often face st
 - **Analytics**: Track user progress and provide insights for better self-management.
 - **Expanded Content**: Add more meditation modes, study tips, and motivational content.
 
-## 📦 Installation
+<!--## 📦 Installation
 
 To get started with **Zen-IGDTUW**, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/genz-igdtuw.git
+   git clone https://github.com/yourusername/.git
 2. Navigate to the project directory:
    ```bash
    cd genz-igdtuw
