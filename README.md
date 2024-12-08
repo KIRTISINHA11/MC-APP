@@ -33,7 +33,7 @@
 
 In today's competitive educational environment at IGDTUW, students often face stress due to academic pressure, peer comparison, and career anxiety. While educational institutions promote excellence, the importance of **mental health** and **work-life balance** is often overlooked. This leads to increased stress, and in some cases, tragic outcomes like suicides among students.
 
-**GenZ-IGDTUW** is built with the intention to help students manage their mental health, improve focus, and balance their mental well-being with their academic life. By offering guided meditation and a supportive student corner, the app aims to make a positive difference in student life.
+**Zen-IGDTUW** is built with the intention to help students manage their mental health, improve focus, and balance their mental well-being with their academic life. By offering guided meditation and a supportive student corner, the app aims to make a positive difference in student life.
 
 ## 🌱 Scope of Work
 
@@ -68,7 +68,7 @@ In today's competitive educational environment at IGDTUW, students often face st
 
 ## 📦 Installation
 
-To get started with **GenZ-IGDTUW**, follow these steps:
+To get started with **Zen-IGDTUW**, follow these steps:
 
 1. Clone the repository:
    ```bash
