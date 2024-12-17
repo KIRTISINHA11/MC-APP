@@ -1,4 +1,14 @@
 import californiaBackyardOne from "@/assets/affirmation-images/California-backyard-1.webp";
+import iphoneLost from "@/assets/affirmation-images/iphone.jpg";
+import spiral from "@/assets/affirmation-images/spiral.jpg";
+import mac1 from "@/assets/affirmation-images/mac.webp";
+import san1 from "@/assets/affirmation-images/san.jpg";
+import ar from "@/assets/affirmation-images/ar.png";
+import pomo from "@/assets/affirmation-images/pomo.png";
+import fn from "@/assets/affirmation-images/fn.png";
+import sr from "@/assets/affirmation-images/sr.jpg";
+
+
 import californiaBackyardTwo from "@/assets/affirmation-images/California-backyard-2.webp";
 import californiaBackyardThree from "@/assets/affirmation-images/California-backyard-3.webp";
 import californiaBackyardFour from "@/assets/affirmation-images/California-backyard-4.webp";
@@ -35,7 +45,15 @@ import tuscannyFour from "@/assets/affirmation-images/Tuscanny-4.webp";
 
 export default {
     californiaBackyardOne,
+    iphoneLost,
+    spiral,
     californiaBackyardTwo,
+    san1,
+    mac1,
+    pomo,
+    ar,
+    fn,
+    sr,
     californiaBackyardThree,
     californiaBackyardFour,
     englishCountrysideOne,

@@ -11,7 +11,7 @@ import Animated, {
     withSpring,
 } from "react-native-reanimated";
 
-import beachImage from "@/assets/meditation-images/beach.webp";
+import beachImage from "@/assets/meditation-images/bg.jpg";
 
 const App = () => {
     const router = useRouter();
@@ -35,10 +35,10 @@ const App = () => {
                                 .springify(20)}
                         >
                             <Text className="text-center text-white font-bold text-4xl">
-                                Simple Meditation
+                             ZenIGDTUW
                             </Text>
                             <Text className="text-center text-white font-regular text-2xl mt-3">
-                                Simplifying Meditation for Everyone
+                            Nurture your mind, balance your journey.
                             </Text>
                         </Animated.View>
 

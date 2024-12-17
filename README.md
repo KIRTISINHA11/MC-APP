@@ -223,6 +223,7 @@ export default {
 
 ```javascript
 import treeImage from "@/assets/meditation-images/trees.webp";
+import ig from "@/assets/meditation-images/ig.jpg";
 import meditatingUnderTree from "@/assets/meditation-images/meditate-under-tree.webp";
 import riverImage from "@/assets/meditation-images/river.webp";
 import beachImage from "@/assets/meditation-images/beach.webp";
@@ -231,6 +232,7 @@ import waterfall from "@/assets/meditation-images/waterfall.webp";
 
 export default [
     treeImage,
+    ig,
     riverImage,
     meditatingUnderTree,
     beachImage,
@@ -255,37 +257,37 @@ export interface MeditationType {
 export const MEDITATION_DATA: MeditationType[] = [
     {
         id: 1,
-        title: "Mountains",
-        image: "trees.webp",
+        title: "Exams ",
+        image: "ig.jpg",
         audio: "trees.mp3",
     },
     {
         id: 2,
-        title: "Rivers",
+        title: "Focus",
         image: "river.webp",
         audio: "river.mp3",
     },
     {
         id: 3,
-        title: "Sunset",
+        title: "Placements",
         image: "meditate-under-tree.webp",
         audio: "meditate-under-tree.mp3",
     },
     {
         id: 4,
-        title: "Beaches",
+        title: "Morning-Boost",
         image: "beach.webp",
         audio: "beach.mp3",
     },
     {
         id: 5,
-        title: "Starry Night",
+        title: "Stress-Relief",
         image: "yosemite-stars.webp",
         audio: "yosemite-stars.mp3",
     },
     {
         id: 6,
-        title: "Waterfall",
+        title: "Introspection",
         image: "waterfall.webp",
         audio: "waterfall.mp3",
     },
@@ -311,12 +313,12 @@ import images from "@/constants/affirmation-images";
 
 const AFFIRMATION_GALLERY = [
     {
-        title: "Positivity",
+        title: "Lost And Found",
         data: [
             {
                 id: 1,
-                text: "Every day brings new opportunities to grow and excel. I am constantly evolving and improving. My positive mindset attracts abundance and success. I am grateful for the journey and the lessons it brings.",
-                image: images.californiaBackyardOne,
+                text: "Item: A sleek black iPhone 13 Pro with a floral case. Details: Last seen at the city park near the fountain.. My positive mindset attracts abundance and success. I am grateful for the journey and the lessons it brings.",
+                image: images.iphoneLost,
             },
             {
                 id: 2,

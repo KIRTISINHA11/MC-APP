@@ -2,52 +2,52 @@ import images from "@/constants/affirmation-images";
 
 const AFFIRMATION_GALLERY = [
     {
-        title: "Positivity",
+        title: "Lost And Found",
         data: [
             {
                 id: 1,
-                text: "Every day brings new opportunities to grow and excel. I am constantly evolving and improving. My positive mindset attracts abundance and success. I am grateful for the journey and the lessons it brings.",
-                image: images.californiaBackyardOne,
+                text: "Item: A sleek black iPhone 13 Pro with a floral case. Details: Last seen at the city park near the fountain.Reward: A small treat for your honesty! Call Shrishti at +91 98765 43210.",
+                image: images.iphoneLost,
             },
             {
                 id: 2,
-                text: "I am the architect of my destiny, and I build it with positivity and determination. Challenges are stepping stones to my greatness. I embrace each moment with enthusiasm and confidence. My future is bright and limitless.",
-                image: images.californiaBackyardTwo,
+                text: "Item: A blue spiral-bound notebook labeled Data Structure & Algorithms. Details: Left in the library's study room, table 5. Importance: Contains all my semester prep notes!Please call or text +91 98765 43210.",
+                image: images.spiral,
             },
             {
                 id: 3,
-                text: "I radiate positivity and inspire those around me. My energy is contagious, and it fuels my drive to succeed. I focus on solutions, not problems, and I am resilient in the face of adversity. I am committed to living a life of purpose and joy.",
-                image: images.californiaBackyardThree,
+                text: "Item: A silver MacBook Air with a sticker on the lid. Details: Last seen in the library's second-floor study cubicle.Importance: Contains vital project files and personal data! Please call or text +91 98765 43210—reward offered!",
+                image: images.mac1,
             },
             {
                 id: 4,
-                text: "I believe in my potential and trust the process of life. Every setback is a setup for a greater comeback. I choose to see the good in every situation and remain optimistic. My passion and persistence are the keys to my unstoppable success.",
-                image: images.californiaBackyardFour,
+                text: "Item: A red SanDisk USB drive with a keychain attached.Details: Lost during the tech fest, possibly at the registration desk. Importance: Contains my final year thesis and important documents. If found, please WhatsApp me at +91 88822 33344—urgent!",
+                image: images.san1,
             },
         ],
     },
     {
-        title: "Reduce Anxiety",
+        title: "Study Tips",
         data: [
             {
                 id: 5,
-                text: "I am in control of my thoughts, and I choose peace over worry. Each breath I take calms my mind and soothes my soul. I release the need to stress over what I cannot control. I am strong, capable, and at ease in all situations.",
-                image: images.englishCountrysideOne,
+                text: "Break study sessions into intervals of 25 minutes (Pomodoros) with 5-minute breaks.Encourages deep focus, prevents burnout, and makes tasks feel more manageable.Set a timer, focus fully during the Pomodoro, and reward yourself with short breaks.",
+                image: images.pomo,
             },
             {
                 id: 6,
-                text: "I embrace calmness and serenity as my natural state of being. My mind is clear, my heart is light, and I am present in this moment. Anxiety has no power over me, for I am resilient and grounded. I trust in my ability to handle whatever comes my way.",
-                image: images.englishCountrysideTwo,
+                text: "What: Instead of passively rereading, test yourself by recalling the material from memory. Why it works: Strengthens memory and highlights areas needing improvement.How to use: Close your notes and write down or speak aloud what you remember, then check for accuracy.",
+                image: images.ar,
             },
             {
                 id: 7,
-                text: "Every day, I grow more confident in managing my stress and anxiety. I focus on positive thoughts and let go of fears that do not serve me. I am surrounded by support and love, and I embrace the peace within me. My inner strength guides me through any challenge with grace and calm.",
-                image: images.englishCountrysideThree,
+                text: "What: Review material at increasing intervals.Why it works: Reinforces long-term memory by spacing out learning over time.How to use: Use flashcards or apps like Anki to plan review sessions systematically.",
+                image: images.sr,
             },
             {
                 id: 8,
-                text: "I release tension and embrace relaxation in my mind and body. I am safe, I am loved, and I am free from the grip of anxiety. Each step I take is filled with confidence and tranquility. I choose to live in the present moment, where peace and joy reside.",
-                image: images.englishCountrysideFour,
+                text: "What: Learn by teaching the concept in simple terms as if explaining to a 5-year-old. Why it works: Helps identify gaps in understanding and solidifies knowledge.How to use: Write down the topic, explain it in simple language, refine your explanation, and simplify further if needed.",
+                image: images.fn,
             },
         ],
     },

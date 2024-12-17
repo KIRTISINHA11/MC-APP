@@ -1,4 +1,5 @@
 import treeImage from "@/assets/meditation-images/trees.webp";
+import ig from "@/assets/meditation-images/ig.jpg";
 import meditatingUnderTree from "@/assets/meditation-images/meditate-under-tree.webp";
 import riverImage from "@/assets/meditation-images/river.webp";
 import beachImage from "@/assets/meditation-images/beach.webp";
@@ -8,6 +9,7 @@ import waterfall from "@/assets/meditation-images/waterfall.webp";
 export default [
     treeImage,
     riverImage,
+    ig,
     meditatingUnderTree,
     beachImage,
     yosemiteStars,

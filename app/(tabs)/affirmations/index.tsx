@@ -20,7 +20,7 @@ const Page = () => {
             >
                 <ScrollView showsVerticalScrollIndicator={false}>
                     <Text className="text-zinc-50 text-3xl font-bold">
-                        Change your beliefs with affirmations
+                    Student's Corner
                     </Text>
                     <View>
                         {AFFIRMATION_GALLERY.map((g) => (
@@ -40,7 +40,7 @@ const Page = () => {
 
 const galleryData = [
     {
-        title: "Positivity",
+        title: "Lost And Found",
         data: [
             {
                 id: 1,
@@ -70,7 +70,7 @@ const galleryData = [
             {
                 id: 1,
                 name: "test",
-                image: images.englishCountrysideOne,
+                image: images.pomo,
             },
             {
                 id: 2,

@@ -124,7 +124,7 @@ const Page = () => {
                             onPress={handleAdjustDuration}
                         />
                         <CustomButton
-                            title={isMeditating ? "Stop" : "Start Meditation"}
+                            title={isMeditating ? "Stop" : "Start Timer"}
                             onPress={toggleMeditationSessionStatus}
                             containerStyles="mt-4"
                         />

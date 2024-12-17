@@ -32,7 +32,7 @@ const Page = () => {
             <Tabs.Screen
                 name="affirmations"
                 options={{
-                    tabBarLabel: "Affirmations",
+                    tabBarLabel: "Student's Corner",
                     tabBarIcon: ({ color }) => (
                         <Entypo name="open-book" size={24} color={color} />
                     ),
